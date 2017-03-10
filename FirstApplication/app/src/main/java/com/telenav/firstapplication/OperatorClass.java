@@ -5,4 +5,6 @@ package com.telenav.firstapplication;
  */
 
 public class OperatorClass {
+
+    //This is a test class
 }
