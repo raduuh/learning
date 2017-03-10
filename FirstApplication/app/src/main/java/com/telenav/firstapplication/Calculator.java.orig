@@ -7,9 +7,13 @@ import android.util.Log;
  */
 
 public class Calculator {
- public void sumCalculator() {
-        Log.d("Sum", "The sum is " + AddOperation.addOper(1, 1));
-    }
-   public void diffCalculator(){
+<<<<<<< HEAD
+    public void diffCalculator(){
         Log.d("Diff","The diff is "+AddOperation.diffOper(1,2));
-    }}
+=======
+
+    public void sumCalculator() {
+        Log.d("Sum", "The sum is " + AddOperation.addOper(1, 1));
+>>>>>>> Calculate sum of two number
+    }
+}
