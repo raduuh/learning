@@ -14,6 +14,9 @@ public class AddOperation {
         return a - b;
     }
 
+    public static void myMethod(){
+
+    }
     public static void newMethod(){
         // do something
     }
