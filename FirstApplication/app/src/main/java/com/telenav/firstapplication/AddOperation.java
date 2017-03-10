@@ -13,4 +13,8 @@ public class AddOperation {
     public static int diffOper(int a, int b) {
         return a - b;
     }
+
+    public static void newMethod(){
+        // do something
+    }
 }
