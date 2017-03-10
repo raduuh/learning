@@ -9,4 +9,8 @@ public class AddOperation {
     public static int addOper(int a, int b) {
         return a + b;
     }
+
+    public static int diffOper(int a, int b) {
+        return a - b;
+    }
 }
